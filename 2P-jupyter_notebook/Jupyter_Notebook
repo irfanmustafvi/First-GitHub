@@ -1,0 +1,109 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "65c05d12",
+   "metadata": {},
+   "source": [
+    "# Python \n",
+    "## How to use jupyter notebook?\n",
+    "### Basic of python\n",
+    "**1-My first program**\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "90dd09d1",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print(9+4)\n",
+    "print(\"Hello world\")\n",
+    "print(\"We are learning python with Ammar\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "47a2c214",
+   "metadata": {},
+   "source": [
+    "**2-Operators**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "8d389f3b",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "12\n",
+      "7\n",
+      "27\n",
+      "2.0\n",
+      "4\n",
+      "3.0\n",
+      "36\n",
+      "1\n",
+      "128\n",
+      "6.5\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(5+7)\n",
+    "print(9-2)\n",
+    "print(9*3)\n",
+    "print(8/4)\n",
+    "print(8//2)\n",
+    "print(6/2)\n",
+    "print(6**2)\n",
+    "print(9%2)\n",
+    "print(2**7)\n",
+    "print(3**2/2*3/3+6-4)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ca652381",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# PEMDAS\n",
+    "#   (Parentheses)\n",
+    "#   Power_pr_Exponents\n",
+    "#   Multiply*\n",
+    "#   Divide /\n",
+    "#   Add    +\n",
+    "#   Subtract -\n",
+    "#   Remainder after divide %"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
